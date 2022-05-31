@@ -11,6 +11,7 @@ const App: () => ReactNode = () => {
     backgroundColor: isDarkMode ? Colors.darker : Colors.lighter
   };
 
+
   return (
     <>
       <SafeAreaView style={backgroundStyle}>
