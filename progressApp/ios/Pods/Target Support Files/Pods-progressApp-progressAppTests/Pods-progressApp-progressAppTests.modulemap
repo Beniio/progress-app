@@ -1,0 +1,6 @@
+module Pods_progressApp_progressAppTests {
+  umbrella header "Pods-progressApp-progressAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
